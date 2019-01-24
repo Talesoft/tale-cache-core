@@ -20,7 +20,8 @@
         "psr-4": {
             "Tale\\": "src",
             "Tale\\Test\\": "tests"
-        }
+        },
+        "files": ["src/functions.php"]
     },
     "require-dev": {
         "talesoft/tale-dev-tool": "0.2.2"
