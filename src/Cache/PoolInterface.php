@@ -6,5 +6,4 @@ use Psr\Cache\CacheItemPoolInterface;
 
 interface PoolInterface extends CacheItemPoolInterface
 {
-    public function getItem($key): ItemInterface;
 }

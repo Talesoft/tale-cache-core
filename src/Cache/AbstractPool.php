@@ -1,10 +1,8 @@
 <?php declare(strict_types=1);
 
-namespace Tale\Cache\Pool;
+namespace Tale\Cache;
 
 use Psr\Cache\CacheItemInterface;
-use Tale\Cache\ItemInterface;
-use Tale\Cache\PoolInterface;
 
 abstract class AbstractPool implements PoolInterface
 {

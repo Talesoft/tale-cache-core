@@ -3,6 +3,7 @@
 namespace Tale\Cache\Pool;
 
 use Psr\Cache\CacheItemInterface;
+use Tale\Cache\AbstractPool;
 use Tale\Cache\Item;
 use Tale\Cache\ItemInterface;
 
